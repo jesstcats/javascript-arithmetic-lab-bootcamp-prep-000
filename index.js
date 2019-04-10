@@ -4,4 +4,7 @@ function add(a,b){
 function subtract(a,b){
   return a-b;
 }
-function mul
+
+function multiply (a,b){
+  return a*b;
+}
